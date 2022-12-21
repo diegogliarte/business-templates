@@ -1,0 +1,112 @@
+Patatas
+Bravas;4'80€
+1/2 Bravas;3'00€
+Riojanas;6'00€ / 3'00€
+Riojanas, huevo y bacon;7'00€ / 4'00€
+Campesinas con queso fundido y escalivada;7'00€ / 4'00€
+Diavola;7'50€
+
+Tapas
+Chipirones a la plancha;9'00€
+Puntillas de calamar rebozadas;9'00€
+Calamares a la andaluza;8'00€
+Longaniza del país con salsita;6'50€
+"Pincho maruno";6'00€
+Pincho argentino (chimixurry);6'50€;spicy
+Pimientos del Padrón;6'00€
+Champiñones Roma;6'00€
+Esqueixada;7'00€
+Sepia a la plancha;8'50€
+Sticks de pollo rebozados;6'50€
+Plato jamón serrano y queso curado;11'00€
+Surtido de embutidos grande;16'00€
+Surtido de embutidos pequeño;11'00€
+Queso de cabra con escalivada;7'00€
+Champiñones con queso fundido y bacon;6'50€
+Escalivada;7'00€
+Corazones de alcachofa rebozados;6'50€
+
+Huevos rotos
+Jamón;8'00€
+Roma;7'30€
+Chistorra y pimiento verde;7'70€
+Cebolla crugiente;6'50€
+Patatas y huevos;6'00€
+Diavola: bacon;7'50€;spicy
+
+Croquetas caseras
+Jamón;1'40€/u
+Bacalao;1'40€/u
+Setas;1'40€/u
+Tigres;1'50€/u
+
+Montaditos (4u)
+Chistorra y sobrasada;5'60€
+Brie con mermelada de tomate;5'60€
+Mini hamburguesa casera con cebolla y queso;6'00€
+
+Otros platos
+Churrasco;8'00€
+Longaniza;7'50€
+Lomo;7'50€
+Pollo;7'00€
+Calamares;11'00€
+Chipirones;11'00€
+*Todo con guarnición (2 a elegir): patata, escalivada, ensalada o champiñones;
+
+Tostadas
+Atún, anchoas, aceitunas y escalivada;6'80€
+Jamón serrano;6'00€
+Queso curado;6'00€
+Jamón dulce y queso a la plancha;5'70€
+Bacon, queso y escalivada;6'30€
+Lomo, queso, cebolla y pimiento;6'50€
+Longaniza del país con pimiento;6'30€
+Patatas riojanas, pincho moruno y pimiento;6'90€
+Lomo adobado, huevo a la plancha y cebolla;6'30€
+Tortilla, patatas riojanas y calamares;6'90€
+Jamón del país y queso curado;6'50€
+Rodajas de tomate, rulo de cabra, nueces y queso rallado;6'80€
+Bacon, queso y frankfurt;6'30€
+Jamón y dos huevos a la plancha;6'30€
+Sobrasada y queso;5'10€
+Rodajas de tomate, lechuga, pollo y queso fundido;6'60€
+Chistorra, pimiento y cebolla;6'30€
+Bacon, cebolla y champiñones;6'30€
+Surtido de tostadas;9'10€
+Jamón y rulo de cabra;6'80€
+Rodajas de tomate, tiras de bacalao y escalivada;6'95€
+Lomo, rulo de cabra y cebolla crujiente;6'90€
+Lomo con queso;6'00€
+Pechuga de pollo, champiñones y queso fundido;6'60€
+Rodajas de tomate, escalivada y champiñones;6'10€
+Lomo adobado, queso y cebolla crujiente;6'60€
+
+Bocadillos fríos
+Jamón serrano;5'00€ / 2'80€
+Xorizo o fuet;4'50€ / 2'50€
+Queso curado;4'50€ / 2'50€
+Jamón dulce;4'50€ / 2'50€
+Jamón dulce con queso;5'00€ / 2'80€
+Atún;4'50€ / 2'50€
+Anchoas;5'00€ / 2'80€
+Atún, anchoas y aceitunas;5'50€ / 3'00€
+Atún, anchoas, escalivada y queso;6'00€ / 3'50€
+Vegetal atún (lechuga, tomate, aceitunas, maionesa);5'50€ / 3'00€
+Rodajas de tomate, lechuga y queso;4'50€ / 2'50€
+Jamón, queso brie y escalivada;5'70€ / 2'70€
+
+Ensaladas
+Verde: lechuga, maíz, cebolla, aceitunas y pimiento;6'50€
+Roma: lechuga, tomate, maíz, nueces, aceitunas, bacon, champiñones y salsa de vinagre de Módena;8'50€
+Atún y anchoas: lechuga, tomate, maíz, cebolla, aceitunas, atún y anchoas;8'50€
+Rulo de cabra: Rodajas de tomate, nueces, queso rallado y queso de cabra;8'50€
+César: Lechuga, picatostes, quesso rallado, salsa César y pollo;8'50€
+Quesos: lechuga, tomate, maíz, aceitunas, queso brie, queso curado, roquefort y rulo de cabra;8'50€
+
+
+Suplementos
+Cebolla, queso o pimiento;0'80€
+Ración de pan extra;1'00€
+Ración de pan con tomate;2'00€
+Salsa extra;0'80€
