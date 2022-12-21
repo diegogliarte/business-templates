@@ -19,9 +19,7 @@ function readTextFile(file)
 fetch('../products/menu.txt')
     .then(response => response.text())
     .then(text => {
-        console.log(text)
-        const lines = text.split("\n")
-        console.log(lines)
+        const lines = text.replace(/[\r]+/g, '').split("\n")
         const products = document.getElementById("products")
         let category = null
         for (let line of lines) {
