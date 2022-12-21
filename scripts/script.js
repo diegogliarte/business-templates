@@ -21,6 +21,7 @@ fetch('../products/menu.txt')
     .then(text => {
         console.log(text)
         const lines = text.split("\r\n")
+        console.log(lines)
         const products = document.getElementById("products")
         let category = null
         for (let line of lines) {
