@@ -22,10 +22,15 @@ fetch('../products/menu.txt')
         const lines = text.replace(/[\r]+/g, '').split("\n")
         const products = document.getElementById("products")
         let category = null
+        let i = 0
         for (let line of lines) {
             let comma_splitted = line.split(";")
-            if (comma_splitted.length === 1) {
+            if (comma_splitted.length === 1 && comma_splitted[0]) {
                 category = create_div(["category"])
+                let id = "category-" + i
+                category.setAttribute("id", id)
+                category.style.gridArea = id
+                i++
                 products.appendChild(category)
                 let category_title = create_div(["category-title"], comma_splitted[0])
                 category.appendChild(category_title)
