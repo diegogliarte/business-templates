@@ -19,6 +19,7 @@ function readTextFile(file)
 fetch('../products/menu.txt')
     .then(response => response.text())
     .then(text => {
+        console.log(text)
         const lines = text.split("\r\n")
         const products = document.getElementById("products")
         let category = null
@@ -32,7 +33,6 @@ fetch('../products/menu.txt')
             } else if (comma_splitted.length >= 1) {
                 let name = comma_splitted[0]
                 let price = comma_splitted[1]
-                console.log(["name"] + comma_splitted.slice(2))
                 let div_name = create_div(["name"].concat(comma_splitted.slice(2)), name)
                 let div_price = create_div(["price"], price)
                 let div_item = create_div(["item"])
