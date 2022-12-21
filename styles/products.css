@@ -1,0 +1,65 @@
+
+html, body {
+    overflow: visible;
+}
+
+.container-products {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    row-gap: 10px;
+    font-size: 1rem;
+
+}
+
+.products {
+    width: fit-content;
+    border-radius: 5px;
+    margin: 1rem;
+    font-size: 1.5rem;
+}
+
+.category-title {
+    margin-top: 4rem;
+    font-weight: bolder;
+}
+
+.item {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin: 1rem;
+    font-weight: normal;
+    gap: 1rem;
+    font-size: 1rem;
+}
+
+.name {
+    text-align: left;
+    max-width: 500px;
+}
+
+.spicy::after {
+    color: red;
+    content: " 🌶";
+}
+
+.price {
+    text-align: right;
+    font-weight: bold;
+    color: green;
+}
+
+
+@media only screen and (min-width: 768px) {
+    .item {
+        font-size: 1.5rem;
+    }
+
+    .products {
+        font-size: 2rem;
+    }
+
+
+}

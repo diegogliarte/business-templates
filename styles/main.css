@@ -63,53 +63,6 @@ a {
     margin: 1rem;
 }
 
-.container-products {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    align-items: center;
-    row-gap: 10px;
-    font-size: 1rem;
-
-}
-
-.products {
-    width: fit-content;
-    border-radius: 5px;
-    margin: 1rem;
-    font-size: 1.5rem;
-}
-
-.category-title {
-    margin-top: 4rem;
-    font-weight: bolder;
-}
-
-.item {
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-start;
-    margin: 1rem;
-    font-weight: normal;
-    gap: 1rem;
-    font-size: 1rem;
-}
-
-.name {
-    text-align: left;
-    max-width: 500px;
-}
-
-.spicy::after {
-    color: red;
-    content: " 🌶";
-}
-
-.price {
-    text-align: right;
-    font-weight: bold;
-    color: green;
-}
 
 .find {
     display: flex;
@@ -172,7 +125,7 @@ a {
         width: 85%;
     }
 
-    .container, .products {
+    .container {
         font-size: 2rem;
     }
 
@@ -180,9 +133,6 @@ a {
         row-gap: 4.5rem;
     }
 
-    .item {
-        font-size: 1.5rem;
-    }
 
     .header-title {
         font-size: 4rem;
@@ -202,4 +152,5 @@ a {
         font-size: 2.5rem;
         height: 12rem;
     }
+
 }
