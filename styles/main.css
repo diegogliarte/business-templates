@@ -5,11 +5,12 @@
 
 html, body {
     width: 100%;
+    height: 100%;
     font-family: Roboto, sans-serif;
     text-align: center;
     background-color: var(--white);
     color: var(--black);
-
+    overflow: hidden
 }
 
 
@@ -20,14 +21,12 @@ html, body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    height: 100%;
 }
 
 .container {
     margin-top: 3rem;
     margin-bottom: 3rem;
     font-size: 1.5rem;
-
 }
 
 .header-title {
@@ -60,6 +59,10 @@ a {
     font-size: 2rem;
 }
 
+.header-text div {
+    margin: 1rem;
+}
+
 .container-products {
     display: flex;
     flex-direction: column;
@@ -89,6 +92,7 @@ a {
     margin: 1rem;
     font-weight: normal;
     gap: 1rem;
+    font-size: 1rem;
 }
 
 .name {
@@ -144,6 +148,7 @@ a {
     justify-content: center;
     align-items: center;
     column-gap: 3rem;
+    margin-bottom: 1rem;
 }
 
 
@@ -159,6 +164,10 @@ a {
         margin: 2rem;
     }
 
+    .container-map {
+        height: 375px;
+    }
+
     .google-map {
         width: 85%;
     }
@@ -171,12 +180,26 @@ a {
         row-gap: 4.5rem;
     }
 
+    .item {
+        font-size: 1.5rem;
+    }
+
     .header-title {
-        font-size: 6rem;
+        font-size: 4rem;
+        margin: 1rem;
+    }
+
+    .header {
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+
+    .body-title {
+        margin: 3rem;
     }
 
     .header-text {
-        font-size: 4rem;
-        height: 20rem;
+        font-size: 2.5rem;
+        height: 12rem;
     }
 }

@@ -100,8 +100,8 @@ Ensaladas
 Verde: lechuga, maíz, cebolla, aceitunas y pimiento;6'50€
 Roma: lechuga, tomate, maíz, nueces, aceitunas, bacon, champiñones y salsa de vinagre de Módena;8'50€
 Atún y anchoas: lechuga, tomate, maíz, cebolla, aceitunas, atún y anchoas;8'50€
-Rulo de cabra: Rodajas de tomate, nueces, queso rallado y queso de cabra;8'50€
-César: Lechuga, picatostes, quesso rallado, salsa César y pollo;8'50€
+Rulo de cabra: rodajas de tomate, nueces, queso rallado y queso de cabra;8'50€
+César: lechuga, picatostes, quesso rallado, salsa César y pollo;8'50€
 Quesos: lechuga, tomate, maíz, aceitunas, queso brie, queso curado, roquefort y rulo de cabra;8'50€
 
 
